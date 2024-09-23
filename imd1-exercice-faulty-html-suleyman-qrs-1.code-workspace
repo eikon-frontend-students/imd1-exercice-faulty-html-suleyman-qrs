@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../imd1-exercice-faulty-html-suleyman-qrs-1"
+	},
+	{
+		"name": "imd1-exercice-faulty-html-suleyman-qrs-2",
+		"path": "../imd1-exercice-faulty-html-suleyman-qrs-2"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "imd1-exercice-faulty-html-suleyman-qrs-1"
+  }
+}
